@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gituhb.com/web3templates/nextly-template"
+    "url": "https://github.com/shobhitsingh29/nextly-template-test"
   },
   "keywords": [
     "nextjs",
     "tailwindcss",
     "free"
   ],
-  "author": "Surjith S M",
+  "author": "Shobhit",
   "license": "ISC",
   "dependencies": {
     "@emotion/css": "^11.1.3",
